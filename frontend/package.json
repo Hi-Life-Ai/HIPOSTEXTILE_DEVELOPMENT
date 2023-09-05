@@ -1,0 +1,86 @@
+{
+  "name": "posv0.0.1",
+  "version": "0.0.1",
+  "description": "Hi-POS v 0.0.1 (Frontend v1)",
+  "main": "index.js",
+  "proxy": "http://starreadymades.in",
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fontsource/roboto": "^4.5.8",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/lab": "^5.0.0-alpha.95",
+    "@mui/material": "^5.14.2",
+    "@mui/styled-engine-sc": "^5.10.1",
+    "@mui/x-data-grid": "^5.15.3",
+    "@mui/x-date-pickers": "^5.0.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "country-state-city": "^3.1.2",
+    "datatables.net-dt": "^1.12.1",
+    "dayjs": "^1.11.6",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "eslint-config-react-app": "^7.0.1",
+    "file-saver": "^2.0.5",
+    "filefy": "^0.1.11",
+    "jquery": "^3.6.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25",
+    "moment": "^2.29.4",
+    "node-modules": "^1.0.1",
+    "qrcode": "^1.5.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-csv": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-google-login": "^5.2.2",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.4.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-mui-draft-wysiwyg": "^1.0.3",
+    "react-multi-select-component": "^4.3.4",
+    "react-quill": "^2.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.6.1",
+    "react-to-pdf": "^0.0.14",
+    "react-to-print": "^2.14.7",
+    "react-toastify": "^9.1.1",
+    "react-webcam": "^7.0.1",
+    "rsuite": "^5.17.1",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
